@@ -1,4 +1,4 @@
-require 'pry'
+#my find lab
 def my_find(collection)
   i = 0 
   while i < collection.length
